@@ -19,9 +19,8 @@ contract XNFTScript is Script {
     IERC20 linkTokenSepolia = IERC20(linkTokenAddressSepolia);
 
     ////////////////////
-    address payable fuji = payable(0xe194E5B6A71f4dd5f6dEA01DF3201710e6CBceAE);
-    address payable sepolia =
-        payable(0xAF67BDC24A0311c8cB450E3ea00eAb7073321E99);
+    // address payable fuji = payable();
+    // address payable sepolia = payable();
 
     function setUp() external {}
 
